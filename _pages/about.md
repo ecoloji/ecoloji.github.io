@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor at the Yunnan Academy of Agricultural Sciences.
+I am a Professor at the Institute of Medicinal Plants, Yunnan Academy of Agricultural Sciences, China.
 
 I work in plant ecology and fungal ecology.
